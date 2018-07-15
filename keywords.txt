@@ -6,11 +6,11 @@
 # Datatypes (KEYWORD1)
 ####################################
 
-Rotary		KEYWORD1
+Rotary	KEYWORD1
 
 
 ####################################
 # Methods and Functions (KEYWORD2)
 ####################################
 
-process		KEYWORD2
+process	KEYWORD2
